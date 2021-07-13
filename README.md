@@ -1,3 +1,3 @@
 # Image
 
-- Use these images in a markdown report.md
+- Use these images in a markdown **report.md**
